@@ -3,10 +3,12 @@ atom-material-syntax
 atom-material-ui
 atom-ternjs
 autocomplete-python
+gcc-make-run
 git-plus
 merge-conflicts
 minimap
 python-tools
+README.md
 seti-icons
 seti-ui
 terminal-plus
